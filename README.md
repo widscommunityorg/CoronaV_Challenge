@@ -39,13 +39,14 @@ Salud - Personal de salud con experiencia en epidemiología, salud pública, inf
 ### Calendario de actividades
 
 Sesión de arranque: 01 Febrero 2020 de 12:00 a 14:00 hrs en Ensitech (Cintermex) después de la sesión de SaturdaysAI
-Recepción de proyectos: Abierta del 01 de Febrero al 05 de Febrero 2020 por GitHub. 
-Registro de patrocinadores: El registro de patrocinadores estará abierto hasta el 05 de Febrero 2020. 
-Respuesta de aceptación de proyecto: 07 Febrero 2020 antes de 12 hrs (Tiempo del Centro de México)
-Desarrollo del proyecto: 07 de Febrero hasta 28 de Febrero 2020.
+Recepción de proyectos: Abierta del 01 de Febrero al 07 de Febrero 2020 por GitHub. 
+Registro de patrocinadores: El registro de patrocinadores estará abierto hasta el 07 de Febrero 2020. 
+Respuesta de aceptación de proyecto: 10 Febrero 2020 antes de 12 hrs (Tiempo del Centro de México)
+Desarrollo del proyecto: 07 de Febrero hasta 28 de Febrero 2020. (Tiempo del Centro de México)
+Hack Night: 11 de Febrero de 19:30 a 22:00 hrs (Tiempo del Centro de México) en Yco
 Entrega final de proyectos: 28 de Febrero 2020 hasta las 14 hrs (Tiempo del centro de México)
 Revisión de proyectos: 28 de Febrero al 29 de Febrero 2020.
-Evento cierre, presentación de proyectos y premiación: 29 de Febrero 2020 de 12:00 a 14:00 hrs en Ensitech (Cintermex) después de la sesión de SaturdaysAI.
+Evento cierre, presentación de proyectos y premiación: 29 de Febrero 2020 de 12:00 a 14:00 hrs Lugar por definir.
 
 ### Información sobre el reto
 
@@ -84,7 +85,7 @@ Gamma: asesores técnicos y mentores
 Beta: asesores técnicos y mentores, recursos tecnológicos
 Alpha: asesores técnicos y mentores, recursos tecnológicos, premios para los participantes (el premio puede ser efectivo)
 
-Si desea sumarse a esta iniciativa como patrocinador puede realizar su registro hasta el 05 de Febrero 2020. 
+Si desea sumarse a esta iniciativa como patrocinador puede realizar su registro hasta el 07 de Febrero 2020. 
 REGISTRO https://docs.google.com/forms/d/1L7sdPofWfn1buH2iaW2xng6kH3coUY0_O1FMKIk-O0k
 
 ### Comité Organizador 
