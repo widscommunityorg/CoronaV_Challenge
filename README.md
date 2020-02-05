@@ -86,7 +86,8 @@ Alpha: asesores técnicos y mentores, recursos tecnológicos, premios para los p
 
 Si desea sumarse a esta iniciativa como patrocinador puede realizar su registro hasta el 05 de Febrero 2020. 
 REGISTRO https://docs.google.com/forms/d/1L7sdPofWfn1buH2iaW2xng6kH3coUY0_O1FMKIk-O0k
-Comité Organizador 
+
+### Comité Organizador 
 
 Coordinación general: Juana Martínez - https://www.linkedin.com/in/jmdllmc/ 
 Asesor General de Ciencia de datos y tecnologìa: Eduardo Ramírez Rangel - https://www.linkedin.com/in/ehramirez/
