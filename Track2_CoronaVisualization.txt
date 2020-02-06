@@ -1,0 +1,16 @@
+# CornoaV_Challenge
+
+## Propuestas 
+
+- Visualización estadística de distintos parámetros:
+	- Casos confirmados
+	- Casos en observación
+	- Casos de muertes
+	- Casos de personas recuperadas 
+
+- Determinar la razón de cambio instantánea de propagación y crecimiento
+	- De con expresión numérica
+	- De con expresión analítica
+
+- Determinar la probabilidad de contagio a otro país debido a distintos factores.
+
