@@ -8,7 +8,7 @@ Las variables no controladas, son las simulaciones en caso de que el existan cam
 -Cambio en la velocidad de propagación
 -Propagación por canales no monitoreados que pueden propagar, ejemplo, migrantes ilegales que usan canales no tradicionales para desplazarse
 -Cambio en la tasa de incubación del Coronavirus
--Respuesta 
+-Tiempo de Respuesta de instituciones de salud pública y/o privada ante emergencias
 
 
 Como el tiempo es limitado, se propone llevar a cabo alguna de estas tareas y generar bases de datos que puedan ser visualizadas en Tableau public si no alcanza el tiempo a generarse visualizaciones en alguna de las librerias de python o en su defecto R.
