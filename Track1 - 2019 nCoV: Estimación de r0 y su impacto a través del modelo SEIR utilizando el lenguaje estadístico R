@@ -1,0 +1,12 @@
+Track1 - 2019 nCoV: Estimación de r0 y su impacto a través del modelo SEIR utilizando el lenguaje estadístico R
+Néstor Felipe Torres Pacheco
+
+El proyecto consiste en recopilar la información actual de la propagación del virus 2019-nCoV, 
+realizando una limpieza de los datos para poder manipular de manera estadística a través del lenguaje R. 
+Posteriormente, se desarrollarán los algoritmos necesarios que permitan la interpretación de la ecuación para la 
+estimación del valor del ritmo reproductivo básico; una vez calculado este valor, se pretende desarrollar el modelo SEIR 
+para medir el impacto de la epidemia, y, de esta manera, tener una base para controlar de la mejor manera posible 
+el brote epidémico cuando este se haga presente en México. 
+
+Algunas de las librerías de R a utilizar para realizar los cálculos y simulaciones epidemiológicas son deSolve y/o Epicalc. 
+Los resultados obtenidos mediante los análisis de la información serán plasmados en un artículo científico.
