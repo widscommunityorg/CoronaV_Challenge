@@ -8,5 +8,11 @@ estimación del valor del ritmo reproductivo básico; una vez calculado este val
 para medir el impacto de la epidemia, y, de esta manera, tener una base para controlar de la mejor manera posible 
 el brote epidémico cuando este se haga presente en México. 
 
+La información será extraída de la fuente proporcionada por la comunidad DīngXiāngYuán en el siguiente enlace:
+
+https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/htmlview#
+
 Algunas de las librerías de R a utilizar para realizar los cálculos y simulaciones epidemiológicas son deSolve y/o Epicalc. 
 Los resultados obtenidos mediante los análisis de la información serán plasmados en un artículo científico.
+
+El proyecto no cuenta con más integrantes en el equipo.
