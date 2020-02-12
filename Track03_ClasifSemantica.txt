@@ -1,0 +1,14 @@
+Track 03 - Clasificacion de publicaciones en FB apocrifas o con carga emocional engañosa.
+
+En este track se pretende hacer NLP para identificar fuentes de noticias con textos no confiables o con lenguaje que 
+denota panico por parte del publicador. El objetivo primordial es identificar las publicaciones que mas que ayudar crean miedo infundado
+entre la poblacion asi como ayudar a los lectores de publicacion a identificar las publicaciones que son falsas y no perpetuar 
+la viralizacion de estas mismas. 
+
+Hay dos milestones identifcados en este track
+
+1._ Hacer una clasificacion de fuentes de noticias no confiables (sopitas , metro , the sun etc.)
+2._ En base a un corpus generado por subject matter experts(doctores dentro de este equipo) y usando tecnicas de NLP identificar las palabras en los textos
+que se podrian clasificar como confiables e identificar las palabras en textos que se podrian clasificar como no confiables. 
+
+ 
