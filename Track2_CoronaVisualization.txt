@@ -1,10 +1,18 @@
 # CornoaV_Challenge
 
+Nombre oficial del proyecto: Covid-19 Viz
+
+Track: 2
+
+## Objetivo: 
+
+Determinar el comportamiento de los casos del COVID-19 en china para crear modelos descriptivos y predictivos 
+
+
 ## Propuestas 
 
 - Visualización estadística de distintos parámetros:
 	- Casos confirmados
-	- Casos en observación
 	- Casos de muertes
 	- Casos de personas recuperadas 
 
@@ -12,5 +20,21 @@
 	- De con expresión numérica
 	- De con expresión analítica
 
-- Determinar la probabilidad de contagio a otro país debido a distintos factores.
+## Descripción
 
+Mediante la obtensión de datos a través de distintas bases de datos públicas, se puede extraer información útil para poder predecir el comportamiento del COVID-19.
+Esto se puede hacer utilizando técnicas matemáticas como la regresión polinomial e inclusive el algorítmo de programación genética mediante la regresión simbólica para encontrar una expresión analítica. 
+Con esta información, una vez generada la ecuación del comportamiento, se puede predecir cual será el siguiente número de casos.
+También, es posible obtener expresiones analíticas de la velocidad y la aceleración de propagación.
+
+## Tecnologías a utilizar:
+
+- Python:
+	- numpy
+	- pandas
+	- matplotlib
+	- gplearn
+
+## Miembros del equipo:
+
+- Daniel Hernández Mota
