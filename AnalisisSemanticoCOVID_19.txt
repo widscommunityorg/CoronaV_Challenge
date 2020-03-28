@@ -1,0 +1,25 @@
+Proyecto - Análisis semántico de publicaciones COVID-19 en FB apócrifas o con carga emocional engañosa.
+
+El objetivo de este proyecto es identificar fuentes de noticias(COVID-19) con textos no confiables o con lenguaje quedenota pánico por parte del publicador. Un objetivo específico es identificar las publicaciones que más que ayudar crean miedo infundado entre la población, así como también ayudar a los lectores a identificar el origen de estas publicaciones falsas y evitar la viralizacion de estas mismas. 
+
+Hay dos milestones factibles para la prueba concepto y uno que serviría como implementación. 
+
+Prueba Concepto:
+1._ Hacer una clasificación de fuentes de noticias no confiables (sopitas, metro, the sun etc.)
+2._ En base a un corpus generado por subject matter experts(doctores dentro de este equipo) y usando técnicas de NLP identificar las palabras en los textos de las publicaciones que ayudara a clasificar la publicación como confiables e identificar las palabras en textos que ayudara a clasificar la publicación como no confiables para.
+
+Implementación:
+3._ El objetivo de implementación consiste en crear una app que permita al usuario de una determinada red social (FB) identificar de todas las publicaciones que se despliegan en determinado timeline , cuales son confiables(ya sea una clasificación dicotómica o % de confiabilidad). 
+
+Se propone utilizar las siguientes tecnologías a utilizar para el proyecto:
+- FB api para leer publicaciones de un determinado timeline
+- Api para identificar noticias falsas (si encontramos una que ya lista para usarse)
+- Utilizar un seed o notebook open source que ya implemente técnicas de NLP (en caso de que usar un api ya existente no fuera posible)
+- Dataset de fuentes de publicaciones conocidas en la nube (data set no recolectado todavía)
+- Hace falta definir servidor donde se montará ambiente de desarrollo (Google VM podría ser una opción por ser gratis el primer año)
+
+Miembros del equipo:
+- Xochitl Morales(Manager de Arquitectura y Analítica Digital)
+- Ismael Peregrina(Líder de Inteligencia y Ciencia de Datos)
+- ....
+ 
