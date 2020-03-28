@@ -1,0 +1,26 @@
+2_Track Evolucion_CoV_Var_No_Control
+
+Evolución del Coronavirus en variables No Controladas y escalables
+Se presenta la presente propuesta como parte de la convocatorio a la cuál hace referencia widscommunity/CoronaV_Challenge , por lo que al revisar las fuentes de datos y la experiencia en el mismo ambiente. Se determinó trabajar con una propuesta que trabaje con la propagación del virus, en variables no controlados, esto es, en escenarios fuera de lo contemplado.
+
+Las variables no controladas, son las simulaciones en caso de que el existan cambios en las variables consideradas como fijas, esto es:
+-Cambio en la tasa de mortalidad
+-Cambio en la velocidad de propagación
+-Propagación por canales no monitoreados que pueden propagar, ejemplo, migrantes ilegales que usan canales no tradicionales para desplazarse
+-Cambio en la tasa de incubación del Coronavirus
+-Tiempo de Respuesta de instituciones de salud pública y/o privada ante emergencias
+
+
+Como el tiempo es limitado, se propone llevar a cabo alguna de estas tareas y generar bases de datos que puedan ser visualizadas en Tableau public si no alcanza el tiempo a generarse visualizaciones en alguna de las librerias de python o en su defecto R.
+Al crearse al menos unas de estas variables se podrá estudiar la evolución del Coronavirus en este tipo de escenarios proclives a presentarse en el transcurso de los meses inmediatos
+
+Si el proyecto se está realizando por parte de otras áreas, es posible
+
+LAs fuentes a usar son las presentadas por el proyecto además de un tracking comparativo con la evolución del AH1N1, que se presentó en el 2009-2010
+
+Atte.
+
+Sergio Sámano
+
+
+
