@@ -1,0 +1,54 @@
+# COVID-19
+
+El día 31 de diciembre del 2019 se notificó acerca de 27 casos de neumonía (fiebre mayor a 38°C, conteo bajo/normal de c[elulas blancas o linfocitos, falta de mejora sintomática despues de tratamiento antimicrobial por 4 días )
+en la ciudad de Wuhan (provincia de Hubei, China).
+El 7 de enero del 2020, se identificó que estos síntomas eran causados debido al brote de un nuevo tipo de virus perteneciente a la familia Coronaviridae. 
+El 12 de enero las autoridades chinas compartieron la secuencia genética. 
+
+## Mecanismo de transmisión Humano-Humano:
+
+La vía de transmisión entre humanos es a ravés de secresiones corporales de personas infectadas. 
+Esto se por dos mecanismos principales: 
+	- Contacto directo con gotas respiratorias capaces de transmitirse por 2 metros de distancia
+	- Manos o fómites contaminados con secreciones de la mucosa de la boca, nariz u ojos.
+
+Se ha publicado indicios de alta transmisión intrahospitalaria (40%).
+
+
+## Periodo de incubación
+
+El periodo de incubación se estima entre 4 y 7 días con un promedio de 5 días. No obstante, se considera que podría ser desde los 2 hasta los 14 días. 
+No existe evidencia respecto a la transmisión a partir de pacientes asintomáticos o durante el periodo de incubación. 
+
+## Letalidad
+
+La proporción de defunciones ha variado entre un 2% y 3% manteniéndose estable en 2.5% 
+
+## Enfermedad
+
+Los síntomas de los casos más graves se conocen: 
+	- Fiebre (98.6)
+	- fatiga 
+	- tos seca (59.4)
+	- Atenia (69.6)
+	- Anorexia (39.9)
+	- Mialgias (34.8)
+	- Neumonía bilateral (100)
+	- Diarrea y náuseas (10.1)
+	- Disnea (31.2)
+	- Cefalea (6.5)
+	- Mareo (9.4)
+
+## Prevención
+
+Realización de aislamiento aéreo (mascarilla de alta eficacia)
+Evitar tocar ojos, nariz y boca con las manos sin lavar. 
+
+
+### Referencias:
+
+1. Díez-Izquierdo, L., Gamarra-Villaverde, M., Rodríguez-Alarcón, L., Latasa-Zamalloa, P., Monge-Corella, S., Parra-Ramírez, L., Pérez-Formigó, R., Pérez-Olaso, O., Redondo-Bravo, L., Sierra-Moros, M., Simón-Soria, F., Suárez-Rodríguez, B. (2020) Nuevo Cornavirus 2019-nCov. Secretaria general de sanidad y consumo, Dirección general de salud pública, calidad e innovación. Ministerio de Sanidad, Centro de coordinación de alertas y emergencias sanitarias.Recuperado el 17 de febrero del 2020 [en línea] de https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/ITCoronavirus.pdf
+
+2. Department of health and human services USA (2020) El nuevo coronavirus (2019-nCoV) y usted. CDC. Recuperado el 17 de febrero del 2020 [en línea] de:  https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet-sp.pdf
+
+3. 
